@@ -31,6 +31,7 @@ export const PROJECTS = [
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication, developed with MERN Technology .",
     technologies: ["MongoDB", "Express.js", "React.js", "Node.js"],
+    url: "https://github.com/deepakpatel45/E-Commerce-Website"
   },
   {
     title: "Personal Contact Form",
@@ -38,6 +39,7 @@ export const PROJECTS = [
     description:
       "Engineered a fully responsive web application for user data collection utilizing HTML, CSS, and JavaScript",
     technologies: ["HTML", "CSS", "JavaScript"],
+    url: "https://github.com/deepakpatel45/Contact-form"
   },
   {
     title: "Online Chat Application",
@@ -45,6 +47,7 @@ export const PROJECTS = [
     description:
       "A digital platform enabling real-time text-based conversations over the internet, developed with Django for the backend and React for the frontend,",
     technologies: ["React.js","Python","Django","MongoDB"],
+    url: "https://github.com/deepakpatel45/Online-Chat-Application"
   },
   {
     title: "Portfolio Website",
@@ -52,6 +55,7 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information, developed with React.js and TailwindCSS.",
     technologies: ["React.js", "TailwindCSS", "Bootstrap"],
+    url: "https://github.com/deepakpatel45/Deepak-s-Portfolio"
   }
 ];
 
