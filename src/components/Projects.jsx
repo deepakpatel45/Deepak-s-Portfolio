@@ -36,7 +36,7 @@ const Projects = () => {
               transition={{ duration: 1 }}
               className="w-full max-w-xl lg:w-3/4"
             >
-              <h3 className="mb-2 font-semibold text-2xl">{projects.title}</h3>
+              <h3 className="mb-2 font-semibold text-2xl cursor-pointer" onClick={() => window.open(projects.url, "_blank")}>{projects.title}</h3>
               <p className="mb-4 text-stone-400">{projects.description}</p>
               {projects.technologies.map((tech, index) => (
                 <span
