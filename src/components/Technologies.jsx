@@ -3,6 +3,7 @@ import { RiReactjsLine } from "react-icons/ri";
 import { SiExpress, SiMaas } from "react-icons/si";
 import { SiMongodb } from "react-icons/si";
 import { SiNodedotjs } from "react-icons/si";
+import { SiJava } from "react-icons/si";
 import { SiJavascript } from "react-icons/si";
 import { SiPython } from "react-icons/si";
 import { SiDjango } from "react-icons/si";
