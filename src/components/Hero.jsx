@@ -1,5 +1,6 @@
 import React from "react";
-import profilePic from "../assets/ProfilePic.png";
+// import profilePic from "../assets/ProfilePic.png";
+import deepak_coverPic from "../assets/deepak_coverPic.jpg"
 import { HERO_CONTENT } from "../constants";
 import { motion } from "framer-motion";
 
@@ -27,7 +28,7 @@ const Hero = () => {
         <div className="w-full lg:w-1/2">
           <div className="flex justify-center lg:p-8">
             <motion.img
-              src={profilePic}
+              src={deepak_coverPic}
               alt="deepak patel"
               className="border border-stone-900 rounded-3xl w-72 h-82"
               initial={{ x: 100, opacity: 0 }}
