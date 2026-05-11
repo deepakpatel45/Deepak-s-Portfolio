@@ -42,12 +42,12 @@ export const PROJECTS = [
     url: "https://github.com/deepakpatel45/Contact-form"
   },
   {
-    title: "Online Chat Application",
+    title: "Hotel Reservation System",
     image: project4,
     description:
-      "A digital platform enabling real-time text-based conversations over the internet, developed with Django for the backend and React for the frontend,",
-    technologies: ["React.js","Python","Django","MongoDB"],
-    url: "https://github.com/deepakpatel45/Online-Chat-Application"
+      "Built a command-line hotel reservation system in Java using OOP principles and collections, featuring room booking, customer management, and date-based availability handling.,",
+    technologies: ["Java","OOP"],
+    url: "https://github.com/deepakpatel45/hotel-reservation-project.git"
   },
   {
     title: "Portfolio Website",
