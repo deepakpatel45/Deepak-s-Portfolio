@@ -45,8 +45,8 @@ export const PROJECTS = [
     title: "Hotel Reservation System",
     image: project4,
     description:
-      "Built a command-line hotel reservation system in Java using OOP principles and collections, featuring room booking, customer management, and date-based availability handling.,",
-    technologies: ["Java","OOP"],
+      "Built a command-line hotel reservation system in Java using OOP principles and collections, featuring room booking, customer management, and date-based availability handling.",
+    technologies: ["Java","OOP","Collections"],
     url: "https://github.com/deepakpatel45/hotel-reservation-project.git"
   },
   {
